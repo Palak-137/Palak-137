@@ -1,5 +1,5 @@
 <h4>Hey there, This is Kumari Palak 👧</h4>
-<img align="right" height="500px" width="500px" src="https://user-images.githubusercontent.com/54790525/215966350-7e773444-ad52-4ff8-9dbe-61ef423f0f00.png">
+<img align="right" height="300px" width="300px" src="https://user-images.githubusercontent.com/54790525/215966350-7e773444-ad52-4ff8-9dbe-61ef423f0f00.png">
 <p >I am learner from Army Institute of technology, Pune. As a motivated and enthusiastic individual with a strong interest in technology I like to write clean code, that could help people. I hope to network with experienced professionals in the industry, learn from their experiences and gain insight into the challenges and opportunities in the field.</p>
 
 - 💬 Ask me about **Frontend, ReactJS, Javascript, Data Structure and Algorithms**
